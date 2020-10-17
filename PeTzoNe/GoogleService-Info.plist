@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>798875553537-gi8402u2lu68ku8lu7r70u7nfg9pnd3b.apps.googleusercontent.com</string>
+	<string>PUT_YOURS</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.798875553537-gi8402u2lu68ku8lu7r70u7nfg9pnd3b</string>
+	<string>PUT_YOURS</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCv4rhYgqX-PbLprzqKcGMU5RKF09jY3ww</string>
+	<string>PUT_YOURS</string>
 	<key>GCM_SENDER_ID</key>
-	<string>798875553537</string>
+	<string>PUT_YOURS</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>tn.radhimighri.PeTzoNe</string>
+	<string>PUT_YOURS</string>
 	<key>PROJECT_ID</key>
-	<string>petzone-b9ea8</string>
+	<string>PUT_YOURS</string>
 	<key>STORAGE_BUCKET</key>
-	<string>petzone-b9ea8.appspot.com</string>
+	<string>PUT_YOURS</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,8 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:798875553537:ios:7e56f3b6e3fe8f14831500</string>
+	<string>1:PUT_YOURS</string>
 	<key>DATABASE_URL</key>
-	<string>https://petzone-b9ea8.firebaseio.com</string>
+	<string>PUT_YOURS</string>
 </dict>
 </plist>
