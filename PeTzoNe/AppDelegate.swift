@@ -30,7 +30,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate, GIDSignInDelegate {
         ApplicationDelegate.shared.application(application, didFinishLaunchingWithOptions: launchOptions)
         //google sign in
 //        GIDSignIn.sharedInstance().clientID = FirebaseApp.app()?.options.clientID
-        GIDSignIn.sharedInstance().clientID = "798875553537-gi8402u2lu68ku8lu7r70u7nfg9pnd3b.apps.googleusercontent.com"
+        GIDSignIn.sharedInstance().clientID = "YOUR_GID_ID"
         
 
         GIDSignIn.sharedInstance()?.delegate = self
